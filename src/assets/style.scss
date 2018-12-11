@@ -1,0 +1,7 @@
+@import 'variables';
+@import 'bootstrap/scss/bootstrap.scss';
+@import 'bootswatch';
+
+.btn:focus {
+  box-shadow: none;
+}
